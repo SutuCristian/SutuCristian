@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SutuCristian
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me: 
 -            Email: sutucristiancosmin@gmail.com
 
